@@ -1,3 +1,5 @@
+# Statistik Deskriptif Tiap Klaster
+
 | Fitur                                                                    | Cluster 0     | Cluster 1     | Cluster 2     |
 |--------------------------------------------------------------------------|---------------|---------------|---------------|
 | Persentase Penduduk Miskin                                               | 275,400       | 181,680       | 86,575        |
