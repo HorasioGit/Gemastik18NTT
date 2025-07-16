@@ -9,7 +9,7 @@
 | Timor Tengah Utara          | Persentase Rumah Tangga dengan Akses Air Minum Layak                              |
 | Manggarai Barat             | Persentase Rumah Tangga dengan Akses Air Minum Layak                              |
 | Nagekeo                     | Persentase Rumah Tangga dengan Akses Air Minum Layak                              |
-| Rote Ndao                   | Persentase Rumah Tangga dengan Akses Air Minum Layak                              |
+| Rote Ndao                   | Persentase Balita Wasting                                                         |
 | Sikka                       | Rata-rata Lamanya Sekolah                                                         |
 | Ngada                       | Rata-rata Lamanya Sekolah                                                         |
 | Malaka                      | Rata-rata Lamanya Sekolah                                                         |
