@@ -1,7 +1,5 @@
 # Skor R² Model GWR per Kabupaten/Kota di Provinsi Nusa Tenggara Timur
 
-Tabel berikut menunjukkan nilai koefisien determinasi (R²) hasil dari pemodelan Geographically Weighted Regression (GWR) pada masing-masing kabupaten/kota. Nilai R² merepresentasikan seberapa baik model GWR mampu menjelaskan variasi prevalensi stunting berdasarkan faktor-faktor yang digunakan dalam penelitian.
-
 | **Kabupaten/Kota**          | **Skor R²** |
 |-----------------------------|-------------|
 | Sumba Barat                 | 0.739       |
