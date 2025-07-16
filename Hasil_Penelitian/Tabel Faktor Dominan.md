@@ -1,4 +1,4 @@
-# Tabel Faktor Dominan Penentu Prevalensi Stunting (2021–2024)
+# Tabel Faktor Dominan Penentu Prevalensi Stunting (2024)
 
 | **Kabupaten/Kota**          | **Faktor Dominan**                                                                 |
 |-----------------------------|-------------------------------------------------------------------------------------|
