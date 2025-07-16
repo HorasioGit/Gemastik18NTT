@@ -34,48 +34,7 @@ Terakhir, sebaran kepadatan penduduk juga memperlihatkan ketimpangan yang ekstre
 
 # Rangkuman Klasterisasi Kabupaten/Kota di Nusa Tenggara Timur
 
-## Klaster Awal (Tanpa Geospasial)
-
-| **Kabupaten/Kota**       | **Cluster** | **Nama Klaster**                                  |
-|--------------------------|-------------|----------------------------------------------------|
-| Sumba Barat              | 0           | Wilayah Pedesaan Tertinggal & Rentan              |
-| Sumba Timur              | 0           | Wilayah Pedesaan Tertinggal & Rentan              |
-| Kupang                   | 0           | Wilayah Pedesaan Tertinggal & Rentan              |
-| Timor Tengah Selatan     | 0           | Wilayah Pedesaan Tertinggal & Rentan              |
-| Timor Tengah Utara       | 1           | Wilayah Pedesaan Berkembang                       |
-
----
-
-## Klasterisasi Final per Kabupaten/Kota
-
-| **Kabupaten/Kota**       | **Cluster** | **Nama Klaster**                                  |
-|--------------------------|-------------|----------------------------------------------------|
-| Alor                     | 1           | Wilayah Pedesaan Berkembang                       |
-| Belu                     | 1           | Wilayah Pedesaan Berkembang                       |
-| Ende                     | 1           | Wilayah Pedesaan Berkembang                       |
-| Flores Timur             | 1           | Wilayah Pedesaan Berkembang                       |
-| Kota Kupang              | 2           | Pusat Urban Maju                                  |
-| Kupang                   | 1           | Wilayah Pedesaan Berkembang                       |
-| Lembata                  | 1           | Wilayah Pedesaan Berkembang                       |
-| Malaka                   | 1           | Wilayah Pedesaan Berkembang                       |
-| Manggarai                | 1           | Wilayah Pedesaan Berkembang                       |
-| Manggarai Barat          | 1           | Wilayah Pedesaan Berkembang                       |
-| Manggarai Timur          | 0           | Wilayah Pedesaan Tertinggal & Rentan              |
-| Nagekeo                  | 1           | Wilayah Pedesaan Berkembang                       |
-| Ngada                    | 1           | Wilayah Pedesaan Berkembang                       |
-| Rote Ndao                | 1           | Wilayah Pedesaan Berkembang                       |
-| Sabu Raijua              | 0           | Wilayah Pedesaan Tertinggal & Rentan              |
-| Sikka                    | 1           | Wilayah Pedesaan Berkembang                       |
-| Sumba Barat              | 0           | Wilayah Pedesaan Tertinggal & Rentan              |
-| Sumba Barat Daya         | 0           | Wilayah Pedesaan Tertinggal & Rentan              |
-| Sumba Tengah             | 0           | Wilayah Pedesaan Tertinggal & Rentan              |
-| Sumba Timur              | 0           | Wilayah Pedesaan Tertinggal & Rentan              |
-| Timor Tengah Selatan     | 0           | Wilayah Pedesaan Tertinggal & Rentan              |
-| Timor Tengah Utara       | 1           | Wilayah Pedesaan Berkembang                       |
-
----
-
-## Klasterisasi Lengkap dengan Koordinat
+## Klasterisasi
 
 | **Kabupaten/Kota**       | **Cluster** | **Latitude** | **Longitude** | **Nama Klaster**                                  |
 |--------------------------|-------------|-------------:|--------------:|----------------------------------------------------|
