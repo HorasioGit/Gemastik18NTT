@@ -1,6 +1,4 @@
-# Definisi Variabel Penelitian
-
-## 📋 Tabel I — Definisi Operasional Variabel
+# Definisi Operasional Variabel Penelitian
 
 | **Nama Variabel**           | **Definisi Operasional**                                                             |
 |:---------------------------:|--------------------------------------------------------------------------------------|
@@ -29,4 +27,4 @@ Seluruh variabel dalam penelitian ini dipilih berdasarkan relevansi terhadap per
 
 Sumber utama data yang digunakan dalam penelitian ini berasal dari publikasi resmi yang diterbitkan oleh Badan Pusat Statistik (BPS) Provinsi Nusa Tenggara Timur, termasuk dokumen “Provinsi Nusa Tenggara Timur Dalam Angka” dan publikasi statistik tingkat kabupaten/kota. Sementara itu, data geospasial seperti titik koordinat (latitude dan longitude) serta ketinggian wilayah diperoleh dari portal geografi resmi pemerintah daerah, dan divalidasi silang dengan basis data geospasial global.
 
-Definisi operasional setiap variabel telah dirangkum secara sistematis pada Tabel I di awal dokumen, untuk memberikan kejelasan mengenai ruang lingkup dan cara pengukuran masing-masing variabel dalam konteks penelitian ini.
+Definisi operasional setiap variabel telah dirangkum secara sistematis pada tabel untuk memberikan kejelasan mengenai ruang lingkup dan cara pengukuran masing-masing variabel dalam konteks penelitian ini.
