@@ -1,6 +1,6 @@
 # Statistik Deskriptif Tiap Klaster
 
-| Fitur                                                                    | Cluster 0     | Cluster 1     | Cluster 2     |
+| Fitur                                                                    | Klaster 0     | Klaster 1     | Klaster 2     |
 |--------------------------------------------------------------------------|---------------|---------------|---------------|
 | Persentase Penduduk Miskin                                               | 275,400       | 181,680       | 86,575        |
 | Rata-rata Lamanya Sekolah                                                | 7,063,448     | 7,834,545     | 11,617,500    |
