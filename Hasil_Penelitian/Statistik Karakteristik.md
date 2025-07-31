@@ -1,6 +1,4 @@
-# Statistik Deskriptif Variabel Penelitian
-
-## Tabel 3.A.1 — Statistik Deskriptif Variabel Penelitian (2021–2024)
+# Statistik Deskriptif Variabel Penelitian (2021–2024) 
 
 | **Variabel**                     | **Rata-rata (Avg)** | **Standar Deviasi (Std)** | **Minimum (Min)** | **Maksimum (Max)** |
 |----------------------------------|----------------------|----------------------------|--------------------|---------------------|
@@ -18,7 +16,7 @@
 
 ---
 
-Tabel 3.A.1 menyajikan gambaran umum kondisi wilayah Provinsi Nusa Tenggara Timur (NTT) berdasarkan data agregat tahun 2021 hingga 2024. Temuan utama dari data ini menunjukkan adanya disparitas yang signifikan antar wilayah pada hampir seluruh indikator.
+Tabel menyajikan gambaran umum kondisi wilayah Provinsi Nusa Tenggara Timur (NTT) berdasarkan data agregat tahun 2021 hingga 2024. Temuan utama dari data ini menunjukkan adanya disparitas yang signifikan antar wilayah pada hampir seluruh indikator.
 
 Dari sisi masalah utama, rata-rata prevalensi stunting tercatat sebesar 16,7%, namun memiliki rentang yang cukup lebar, mulai dari 7% hingga 39,2%. Kesenjangan ini sejalan dengan kondisi ekonomi, di mana proporsi penduduk miskin juga sangat bervariasi, mulai dari 8,2% hingga 34,2%. Hal ini memberikan indikasi awal adanya hubungan erat antara kemiskinan dan permasalahan gizi buruk di tingkat regional.
 
