@@ -1,17 +1,12 @@
-**Hasil GWR Model**
+# **Informasi Model**
 
-**Informasi Model**
-
-| Deskripsi | Nilai |
-| :--- | :--- |
 | Model type | Gaussian |
+| :--- | :--- |
 | Number of observations | 88 |
 | Number of covariates | 11 |
 
-**Hasil Regresi Global**
+# **Hasil Global Regression**
 
-| Deskripsi | Nilai |
-| :--- | :--- |
 | Residual sum of squares | 2153.341 |
 | Log-likelihood | -265.554 |
 | AIC | 553.108 |
@@ -20,7 +15,7 @@
 | R2 | 0.437 |
 | Adj. R2 | 0.363 |
 
-**Estimasi Regresi Global**
+# **Estimasi Regresi Global**
 
 | Variabel | Est. | SE | t(Est/SE) | p-value |
 | :--- | :--- | :--- | :--- | :--- |
@@ -36,17 +31,13 @@
 | X9 | 1.056 | 0.293 | 3.607 | 0.000 |
 | X10 | 0.073 | 0.168 | 0.437 | 0.662 |
 
-**Hasil Geographically Weighted Regression (GWR)**
+# **Hasil Geographically Weighted Regression (GWR)**
 
-| Deskripsi | Nilai |
-| :--- | :--- |
 | Spatial kernel | Adaptive bisquare |
 | Bandwidth used | 79.000 |
 
-**Informasi Diagnostik**
+# **Informasi Diagnostik**
 
-| Deskripsi | Nilai |
-| :--- | :--- |
 | Residual sum of squares | 1363.118 |
 | Effective number of parameters (trace(S)) | 19.295 |
 | Degree of freedom (n - trace(S)) | 68.705 |
@@ -60,7 +51,7 @@
 | Adj. alpha (95%) | 0.029 |
 | Adj. critical t value (95%) | 2.227 |
 
-**Ringkasan Statistik Estimasi Parameter GWR**
+# **Ringkasan Statistik Estimasi Parameter GWR**
 
 | Variabel | Mean | STD | Min | Median | Max |
 | :--- | :--- | :--- | :--- | :--- | :--- |
