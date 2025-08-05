@@ -7,6 +7,8 @@
 
 # **Hasil Global Regression**
 
+| Deskripsi | Nilai |
+| :--- | :--- |
 | Residual sum of squares | 2153.341 |
 | Log-likelihood | -265.554 |
 | AIC | 553.108 |
@@ -33,11 +35,15 @@
 
 # **Hasil Geographically Weighted Regression (GWR)**
 
+| Deskripsi | Nilai |
+| :--- | :--- |
 | Spatial kernel | Adaptive bisquare |
 | Bandwidth used | 79.000 |
 
 # **Informasi Diagnostik**
 
+| Deskripsi | Nilai |
+| :--- | :--- |
 | Residual sum of squares | 1363.118 |
 | Effective number of parameters (trace(S)) | 19.295 |
 | Degree of freedom (n - trace(S)) | 68.705 |
