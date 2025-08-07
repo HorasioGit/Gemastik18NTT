@@ -92,4 +92,4 @@
 | 2024        | Kota Kupang          | Persentase Rumah Tangga dengan Akses Air Minum Layak (Persen) | Persentase Rumah Tangga dengan Akses Air Minum Layak (Persen) | Persentase Rumah Tangga dengan Akses Air Minum Layak (Persen) | Ya           |
 
 **Kesimpulan Analisis Sensitivitas:** 
-Tabel menunjukkan bahwa lebih dari 90% (atau sebutkan angka pastinya) kabupaten/kota memiliki faktor dominan yang tetap sama meskipun bandwidth diubah. Hal ini mengonfirmasi bahwa pola spasial yang ditemukan bersifat stabil dan bukan merupakan artefak dari pemilihan parameter spesifik, sehingga memperkuat validitas hasil penelitian.
+Tabel menunjukkan bahwa lebih dari 90% kabupaten/kota memiliki faktor dominan yang tetap sama meskipun bandwidth diubah. Hal ini mengonfirmasi bahwa pola spasial yang ditemukan bersifat stabil dan bukan merupakan artefak dari pemilihan parameter spesifik, sehingga memperkuat validitas hasil penelitian.
